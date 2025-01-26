@@ -1,0 +1,23 @@
+{
+  "name": "filemanagers",
+  "version": "2.0.0",
+  "description": "a api for uplode for files(img , video , audio only ) and after they provide a public url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulkumar6777/Filemanagers.git"
+  },
+  "keywords": [
+    "filemanagers",
+    "manageyourfiles"
+  ],
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulkumar6777/Filemanagers/issues"
+  },
+  "homepage": "https://github.com/Rahulkumar6777/Filemanagers#readme"
+}
