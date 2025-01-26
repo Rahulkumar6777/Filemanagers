@@ -18,7 +18,9 @@ npm install filemanagers
 
 ## Usage
 
-### 1. Register a User
+### 1. Register a User  Currently this service is underdevelopemnt but you want to get api then come on my disocrd i will provide 
+
+discode link :- https://discord.gg/pcYtB8y3pS
 To use the API, you'll first need to register a user.
 
 ```javascript
