@@ -39,7 +39,7 @@ class FileManager {
 
   // Get all files
   async getFiles() {
-    const response = await this.client.get('/api/files');
+    const response = await this.client.get('/api/files/files');
     return response.data;
   }
 
